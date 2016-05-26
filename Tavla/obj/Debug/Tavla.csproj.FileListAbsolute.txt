@@ -1,0 +1,26 @@
+c:\users\halitak\documents\visual studio 2015\Projects\Tavla\Tavla\bin\Debug\Tavla.exe.config
+c:\users\halitak\documents\visual studio 2015\Projects\Tavla\Tavla\bin\Debug\Tavla.exe
+c:\users\halitak\documents\visual studio 2015\Projects\Tavla\Tavla\bin\Debug\Tavla.pdb
+c:\users\halitak\documents\visual studio 2015\Projects\Tavla\Tavla\obj\Debug\Tavla.Form1.resources
+c:\users\halitak\documents\visual studio 2015\Projects\Tavla\Tavla\obj\Debug\Tavla.Properties.Resources.resources
+c:\users\halitak\documents\visual studio 2015\Projects\Tavla\Tavla\obj\Debug\Tavla.csproj.GenerateResource.Cache
+c:\users\halitak\documents\visual studio 2015\Projects\Tavla\Tavla\obj\Debug\Tavla.exe
+c:\users\halitak\documents\visual studio 2015\Projects\Tavla\Tavla\obj\Debug\Tavla.pdb
+C:\Users\Halit Ak\Documents\Visual Studio 2015\Projects\Tavla\Tavla\bin\Debug\Tavla.exe.config
+C:\Users\Halit Ak\Documents\Visual Studio 2015\Projects\Tavla\Tavla\obj\Debug\Tavla.exe
+C:\Users\Halit Ak\Documents\Visual Studio 2015\Projects\Tavla\Tavla\obj\Debug\Tavla.pdb
+C:\Users\Halit Ak\Documents\Visual Studio 2015\Projects\Tavla\Tavla\bin\Debug\Tavla.exe
+C:\Users\Halit Ak\Documents\Visual Studio 2015\Projects\Tavla\Tavla\bin\Debug\Tavla.pdb
+C:\Users\Halit Ak\Documents\Visual Studio 2015\Projects\Tavla\Tavla\obj\Debug\Tavla.Form1.resources
+C:\Users\Halit Ak\Documents\Visual Studio 2015\Projects\Tavla\Tavla\obj\Debug\Tavla.Properties.Resources.resources
+C:\Users\Halit Ak\Documents\Visual Studio 2015\Projects\Tavla\Tavla\obj\Debug\Tavla.csproj.GenerateResource.Cache
+C:\Users\Halit Ak\Documents\Visual Studio 2015\Projects\Tavla\Tavla\obj\Debug\Tavla.csprojResolveAssemblyReference.cache
+D:\LESSONS\3. sınıf 1. Dönem\Tavla\Tavla\bin\Debug\Tavla.exe.config
+D:\LESSONS\3. sınıf 1. Dönem\Tavla\Tavla\obj\Debug\Tavla.exe
+D:\LESSONS\3. sınıf 1. Dönem\Tavla\Tavla\obj\Debug\Tavla.pdb
+D:\LESSONS\3. sınıf 1. Dönem\Tavla\Tavla\bin\Debug\Tavla.exe
+D:\LESSONS\3. sınıf 1. Dönem\Tavla\Tavla\bin\Debug\Tavla.pdb
+D:\LESSONS\3. sınıf 1. Dönem\Tavla\Tavla\obj\Debug\Tavla.csprojResolveAssemblyReference.cache
+D:\LESSONS\3. sınıf 1. Dönem\Tavla\Tavla\obj\Debug\Tavla.Form1.resources
+D:\LESSONS\3. sınıf 1. Dönem\Tavla\Tavla\obj\Debug\Tavla.Properties.Resources.resources
+D:\LESSONS\3. sınıf 1. Dönem\Tavla\Tavla\obj\Debug\Tavla.csproj.GenerateResource.Cache
